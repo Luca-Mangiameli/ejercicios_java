@@ -1,3 +1,6 @@
+Package Nombreproyecto;
+
+
 public class Primerpunto {
 
 	public static void main(String[] args) {
